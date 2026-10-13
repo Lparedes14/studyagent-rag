@@ -70,7 +70,7 @@ tests/           unit tests (pytest; install dev deps with requirements-dev.txt)
 **Problem:** students re-read notes passively, which is a weak way to learn. **Solution:** active recall, quizzing generated from their *own* material. **Success metrics to track:** quiz completion rate, answer accuracy over repeated sessions, and share of answers grounded in retrieved passages.
 
 ## Author
-Luis Paredes Franco. AI Product Owner. Built during the Fall 2026 AI Explore program.
+Luis Paredes Franco. Applied AI Engineer. Built during the Fall 2026 AI Explore program.
 
 ## License
 MIT
